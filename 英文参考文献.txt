@@ -1,0 +1,65 @@
+
+关于PCB缺陷检测：
+Defect Detection and Recognition of Bare PCB Based on Computer Vision
+By: Ma, Jianjie
+
+A Survey on Defect Detection in Bare PCB and Assembled PCB using Image Processing Techniques
+By: Anitha, D. B.; Rao, Mahesh
+
+Automatic Visual Inspection of Printed Circuit Board for Defect Detection and Classification
+By: Chaudhary, Vikas; Dave, Ishan R.; Upla, Kishor P.
+
+PCB Defect Detection USING OPENCV with Image Subtraction Method
+By: Raihan, Fa'Iq; Ce, Win
+
+PCB Fault Detection Using Image Processing
+By: Nayak, Jithendra P. R.; Anitha, K.; Parameshachari, B. D.; et al.
+
+关于CCD：
+
+A novel super-resolution imaging method based on TDI CCD charge transfer and random exposure
+By: Li, Yun-Hui; Wang, Xiao-Dong; Wang, Zhi
+
+
+Study of CCD vision-based monitoring system for NC lathes
+By: Ge Liling; Zhang Yingjie; Chen Bo
+
+
+Application of CCD drift-scan photoelectric technique on monitoring GEO satellites
+By: Yu Yong; Zhao Xiao-Fen; Luo Hao; et al.
+
+Sky Luminance Measurements Using CCD Camera and Comparisons with Calculation Models for Predicting Indoor Illuminance
+By: Yun, Su-In; Kim, Kang-Soo
+
+
+Blind signatures using light variations in CCD sensors as a pattern to avoid identity forging
+By: Antonio Alvarez-Bermejo, Jose; Antonio Lopez-Ramos, Juan
+
+Noise reduction in CCD measurements by improving the quality of dark-reference images
+By: Heil, Tobias; Tatlock, Gordon J.
+
+
+Matching CCD images to a stellar catalog using locality-sensitive hashing
+By: Liu, Bo; Yu, Jia-Zong; Peng, Qing-Yu
+
+Phase shifting white light interferometry using colour CCD for optical metrology and bio-imaging applications
+By: Upputuri, Paul Kumar; Pramanik, Manojit
+
+关于边缘检测：
+
+A Novel Scheme Based on the Diffusion to Edge Detection
+By: He, Yuesheng; Ni, Lionel M.
+
+Estimates of edge detection filters in human vision
+By: McIlhagga, William
+
+
+Learning hybrid convolutional features for edge detection
+By: Hu, Xiaowei; Liu, Yun; Wang, Kai; et al.
+
+Curb Detection for Road and Sidewalk Detection
+By: Cheng, Mingmei; Zhang, Yigong; Su, Yingna; et al.
+
+
+A Robust Edge Detection Approach in the Presence of High Impulse Noise Intensity Through Switching Adaptive Median and Fixed Weighted Mean Filtering
+By: Mafi, Mehdi; Rajaei, Hoda; Cabrerizo, Mercedes; et al.
